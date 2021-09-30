@@ -1,7 +1,7 @@
 # Polynomials
 Calculator for polynomials
 
-This is a project for my university. After compiling the project you can generate a polish doxygen documentation by typing 'make doc'. You'll then find 'index.html' documentation file in the 'html' directory.
+This is a project for my university.
 
 This calculator allows you to operate on multivariable polynomials. You can enter polynomials on the input console and then perform operations such as check if the last added polynomial is equal to zero or multiply two last added polynomials and then print the result.
 
